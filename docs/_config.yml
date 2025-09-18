@@ -4,7 +4,7 @@ remote_theme: wotlkdev/wiki
 
 # Theme settings:
 #site_author: Carlos Pereira Atencio
-repo_url: "https://github.com/wotlkdev/wiki"
+repo_url: "https://github.com/fang139842/wotlkdev_wiki"
 edit_on_github: true
 github_docs_folder: true
 sticky_navigation: true
